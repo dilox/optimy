@@ -1,8 +1,8 @@
 # Test for Optimy
 
-- copy the private key in the directory you just cloned
+- copy the private key I sended you by email in the directory you just cloned
 
-- create the following env vars (I'll send the real ones by email, together with the private key):
+- if you want, you can use my aws, just create the following env vars (I sended the real ones by email)
 
 (on linux)
 
