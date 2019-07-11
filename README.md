@@ -4,11 +4,13 @@ Test for Optimy
 - create the following env vars (I'll send the real ones by email, together the private key):
 
 (on linux)
+
 export AWS_ACCESS_KEY_ID="AKIA................"
 
 export AWS_SECRET_ACCESS_KEY="+GiNB8D................................."
 
 (on windows cmd)
+
 set AWS_ACCESS_KEY_ID=AKIA................
 
 set AWS_SECRET_ACCESS_KEY=+GiNB8D.................................
