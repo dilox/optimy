@@ -1,8 +1,8 @@
 # Test for Optimy
 
-- create the following env vars (I'll send the real ones by email, together with the private key):
-
 - copy the private key in the directory you just cloned
+
+- create the following env vars (I'll send the real ones by email, together with the private key):
 
 (on linux)
 
