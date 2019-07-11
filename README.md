@@ -1,5 +1,4 @@
-# optimy
-Test for Optimy
+# Test for Optimy
 
 - create the following env vars (I'll send the real ones by email, together with the private key):
 
