@@ -3,6 +3,8 @@ Test for Optimy
 
 - create the following env vars (I'll send the real ones by email, together the private key):
 
+- copy the private key in the directory you cloned
+
 (on linux)
 
 export AWS_ACCESS_KEY_ID="AKIA................"
@@ -15,7 +17,7 @@ set AWS_ACCESS_KEY_ID=AKIA................
 
 set AWS_SECRET_ACCESS_KEY=+GiNB8D.................................
 
-after cloning this repo (git@github.com:dilox/optimy.git) run:
+run:
 
 - terraform init
 - terraform plan
