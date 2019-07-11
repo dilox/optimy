@@ -7,3 +7,10 @@
 
 # .tfvars files
 *.tfvars
+
+#credential file
+credentials.csv
+
+#old directory containing bak files
+old
+optimy_key
