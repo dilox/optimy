@@ -5,17 +5,19 @@ Test for Optimy
 
 (on linux)
 export AWS_ACCESS_KEY_ID="AKIA................"
+
 export AWS_SECRET_ACCESS_KEY="+GiNB8D................................."
 
 (on windows cmd)
 set AWS_ACCESS_KEY_ID=AKIA................
+
 set AWS_SECRET_ACCESS_KEY=+GiNB8D.................................
 
 after cloning this repo (git@github.com:dilox/optimy.git) run:
 
->terraform init
->terraform plan
->terraform apply
+- terraform init
+- terraform plan
+- terraform apply
 
 you should see as output something like:
 optimy_instance_public_ip = 52.47.194.144
