@@ -2,7 +2,7 @@
 
 - copy the private key I sended you by email in the directory you just cloned
 
-- if you want, you can use my aws, just create the following env vars (I sended the real ones by email)
+- create the following env vars, with the values of your aws account
 
 (on linux)
 
